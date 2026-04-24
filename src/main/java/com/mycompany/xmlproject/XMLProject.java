@@ -12,7 +12,7 @@ public class XMLProject {
         // ==============================
         String url = "jdbc:mysql://localhost:3306/globaltech";
         String user = "root";
-        String password = "Iamhandsome172@";
+        String password = "";
 
         Connection conn = null;
         Statement stmt = null;
