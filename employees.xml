@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+  <Employee>
+    <emp_id>1</emp_id>
+    <emp_name>Alice Tan</emp_name>
+    <email>alice@globaltech.com</email>
+    <dept_id>1</dept_id>
+    <job_title>Senior Software Engineer</job_title>
+    <hire_date>2022-01-15</hire_date>
+    <status>Active</status>
+  </Employee>
+  <Employee>
+    <emp_id>2</emp_id>
+    <emp_name>Bob Lim</emp_name>
+    <email>bob@globaltech.com</email>
+    <dept_id>1</dept_id>
+    <job_title>DevOps Lead</job_title>
+    <hire_date>2021-06-01</hire_date>
+    <status>Active</status>
+  </Employee>
+  <Employee>
+    <emp_id>3</emp_id>
+    <emp_name>Carol Wong</emp_name>
+    <email>carol@globaltech.com</email>
+    <dept_id>2</dept_id>
+    <job_title>HR Manager</job_title>
+    <hire_date>2020-03-10</hire_date>
+    <status>Active</status>
+  </Employee>
+  <Employee>
+    <emp_id>4</emp_id>
+    <emp_name>David Ng</emp_name>
+    <email>david@globaltech.com</email>
+    <dept_id>3</dept_id>
+    <job_title>Accountant</job_title>
+    <hire_date>2023-07-20</hire_date>
+    <status>Active</status>
+  </Employee>
+  <Employee>
+    <emp_id>5</emp_id>
+    <emp_name>Eve Rashid</emp_name>
+    <email>eve@globaltech.com</email>
+    <dept_id>1</dept_id>
+    <job_title>Lead Analyst</job_title>
+    <hire_date>2024-02-01</hire_date>
+    <status>Active</status>
+  </Employee>
+</Employees>
